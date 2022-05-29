@@ -128,15 +128,11 @@ qt(p = 0.05, df = 2, lower.tail = FALSE)
 ```
 
 # 3.e. Keputusan
-```R
-cat("Karena p-value < a , Hipotesis awal ditolak")
-```
+Karena p-value < a , Hipotesis awal ditolak
 
 # 3.f. Kesimpulan
-```R
-cat("Dengan tingkat keyakinan 95%, diyakini bahwa tidak terdapat 
-    perbedaan rata-rata saham pada perusahaan di Bandung dan Bali.")
-```
+Dengan tingkat keyakinan 95%, diyakini bahwa tidak terdapat perbedaan rata-rata saham pada perusahaan di Bandung dan Bali.
+
 
 # Soal 4
 ### Penjelasan Soal
